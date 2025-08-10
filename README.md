@@ -26,7 +26,7 @@ All tokens enforce whole-number logic. No dust. No unpredictable decimals — al
 
 **Initial allocation:**
 
-* **12.5%** retained by the creator (Apollo Sneed) — subject to vesting.
+* **12.5%** reserved as the creator’s personal allocation — subject to vesting.
 * **87.5%** held in a controlled allocation for future *public sale and liquidity provisioning*.
 
   * These tokens are **not** owned by the public until sold or otherwise distributed.
